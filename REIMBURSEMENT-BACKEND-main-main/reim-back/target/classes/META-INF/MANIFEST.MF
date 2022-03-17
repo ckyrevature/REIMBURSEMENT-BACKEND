@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: Alex
+Build-Jdk: 11.0.12
+Class-Path: lib/postgresql-42.2.14.jar lib/log4j-core-2.11.2.jar lib/log
+ 4j-api-2.11.2.jar lib/javalin-4.3.0.jar lib/jetty-server-9.4.44.v202109
+ 27.jar lib/javax.servlet-api-3.1.0.jar lib/jetty-http-9.4.44.v20210927.
+ jar lib/jetty-util-9.4.44.v20210927.jar lib/jetty-io-9.4.44.v20210927.j
+ ar lib/jetty-webapp-9.4.44.v20210927.jar lib/jetty-xml-9.4.44.v20210927
+ .jar lib/jetty-servlet-9.4.44.v20210927.jar lib/jetty-security-9.4.44.v
+ 20210927.jar lib/jetty-util-ajax-9.4.44.v20210927.jar lib/websocket-ser
+ ver-9.4.44.v20210927.jar lib/websocket-common-9.4.44.v20210927.jar lib/
+ websocket-api-9.4.44.v20210927.jar lib/websocket-client-9.4.44.v2021092
+ 7.jar lib/jetty-client-9.4.44.v20210927.jar lib/websocket-servlet-9.4.4
+ 4.v20210927.jar lib/kotlin-stdlib-jdk8-1.5.31.jar lib/kotlin-stdlib-1.5
+ .31.jar lib/annotations-13.0.jar lib/kotlin-stdlib-common-1.5.31.jar li
+ b/kotlin-stdlib-jdk7-1.5.31.jar lib/slf4j-api-2.0.0-alpha5.jar lib/slf4
+ j-simple-2.0.0-alpha5.jar lib/jackson-databind-2.12.4.jar lib/jackson-a
+ nnotations-2.12.4.jar lib/jackson-core-2.12.4.jar
+Main-Class: com.reimbursement.ReimbursementApp
+Created-By: Maven Integration for Eclipse
+
